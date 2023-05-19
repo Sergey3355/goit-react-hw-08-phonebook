@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[164],{2164:function(e,o,t){t.r(o),t.d(o,{default:function(){return r}});var n="HomePage_welcom__LqyLq",c=t(184),r=function(){return(0,c.jsx)("div",{children:(0,c.jsxs)("h2",{className:n,children:["Welcome \ud83d\udc4b Now you will exactly not forget your contacts!",(0,c.jsx)("br",{}),"Please, Sign up or Log in to have access to the Phonebook!"]})})}}}]);
+//# sourceMappingURL=164.37b7dc8f.chunk.js.map

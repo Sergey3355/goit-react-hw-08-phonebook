@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/164.010eb0b9.chunk.css","mappings":"AAAA,wBAGI,aAAc,CAFd,cAAe,CACf,iBAEJ","sources":["components/HomePage/HomePage.module.css"],"sourcesContent":[".welcom{\n    padding: 40px 0;\n    text-align: center;\n    color: #0fa6cd;\n}"],"names":[],"sourceRoot":""}
